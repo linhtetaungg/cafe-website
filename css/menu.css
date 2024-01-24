@@ -21,7 +21,8 @@ section div div ul li {
   border-bottom-width: 0.8px;
 }
 
-strong, em, span {
+strong,
+em,
+span {
   display: block;
 }
-
